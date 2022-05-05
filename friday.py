@@ -1,4 +1,4 @@
-""""
+"""
 ID: xie_jj2
 LANG: PYTHON3
 TASK: friday
